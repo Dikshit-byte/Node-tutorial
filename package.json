@@ -1,0 +1,15 @@
+{
+  "name": "node-tutorial",
+  "version": "1.0.0",
+  "description": "This is dikshit singh",
+  "main": "npm_mode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dikshit singh",
+  "license": "ISC",
+  "dependencies": {
+
+    "chalk": "^4.1.1"
+  }
+}
